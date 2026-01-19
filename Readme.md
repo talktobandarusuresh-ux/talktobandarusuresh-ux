@@ -12,7 +12,7 @@
 
 ---
 
-I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
+I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **18+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
 
 ---
 
