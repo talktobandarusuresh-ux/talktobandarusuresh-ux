@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Suresh Bandaru
 
-### Senior Consultant – SRE @ Atos  
+### Senior Consultant – DevSecOps Engineer/Technical Project Manager/SRE @ Atos  
 🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sureshbandaru1/)
@@ -12,7 +12,7 @@
 
 ---
 
-I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **18+ years of IT experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure.
+I'm a passionate **DevOps & Site Reliability Engineer (SRE)/Technical Project Manager** with over **18+ years of IT experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure.
 
 ---
 
