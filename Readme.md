@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Suresh Bandaru
 
-### Senior Consultant – DevSecOps Engineer/Technical Project Manager/SRE  
+### Senior Consultant – Azure Infra Architect/DevSecOps Engineer/Technical Project Manager/SRE  
 🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sureshbandaru1/)
