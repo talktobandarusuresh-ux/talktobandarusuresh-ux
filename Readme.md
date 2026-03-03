@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Suresh Bandaru
 
 ### Senior Consultant – Azure Infra Architect/DevSecOps Engineer/Technical Project Manager/SRE  
-🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform 
+🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Docker | Jenkins | GitHub Actions | Ansible  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sureshbandaru1/)
 [![Gmail](https://img.shields.io/badge/Email-talktosureshbandaru@gmail.com-red?logo=gmail&style=flat)](mailto:talktosureshbandaru@gmail.com)
